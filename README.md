@@ -2,6 +2,7 @@
 
 A decentralized microloan platform that helps people in rural or low-income areas access emergency credit — using **social trust** instead of traditional credit scores.
 
+Demo Video: https://www.youtube.com/watch?v=yyKeHHV9ZtI
 ---
 
 ## 🌍 Problem We're Solving
